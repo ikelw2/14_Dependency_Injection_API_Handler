@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleDI.Example/ConsoleDI.Example.csproj" />
+  <Project Path="MyWebApp/MyWebApp.csproj" Id="72105490-d36e-4b53-829b-f6ba50b04423" />
+</Solution>
